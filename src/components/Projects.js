@@ -58,7 +58,7 @@ export default function Projects() {
         description:
           "A task management application using React.js with features for adding, editing, saving and deleting tasks",
         tech: ["JavaScript", "Bootstrap"],
-        github: "https://github.com/jagathm1998/to-do-app",
+        github: "https://github.com/jagathm1998/TaskEase",
         live: "https://mj-to-do-list.vercel.app/",
       },
     ],
