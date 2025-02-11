@@ -7,11 +7,11 @@ header ul li {
 }
 
 .bg-primary {
-    background: rgb(85 81 227);
+    background: #0984E3;  /* A bright electric blue */
 }
 
 .bg-secondary {
-    background: #2b2d77;
+    background: #2D3436;  /* A rich gray */
 }
 
 .mobile-nav {
